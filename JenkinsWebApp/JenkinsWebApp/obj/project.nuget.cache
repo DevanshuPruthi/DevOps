@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPANFh9k2ztFQ6rJAuZKmLoY28JUdk6BQ86hYq5WVX8526ssEvIaQc5dCCwtKvEJSVtWAdm/uJosF4zEPrZgzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\soumya devops\\JenkinsWebApp\\JenkinsWebApp\\JenkinsWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
